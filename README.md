@@ -2,9 +2,9 @@
 
 ![Ethan's Banner](./1719958019269.gif)
 
-### 🔭 I'm Ethan, an undergrad studying Computer Science & Software Engineering with a passion for programming.
-### 💻 I enjoy building software, learning new technologies, and solving real-world problems.  
-### 🌱 I'm currently learning React Native & cloud based development/architecture to build a mobile app.
+#### 🔭 I'm Ethan, an undergrad studying Computer Science & Software Engineering with a passion for programming.
+#### 💻 I enjoy building software, learning new technologies, and solving real-world problems.  
+#### 🌱 I'm currently learning React Native & cloud based development/architecture to build a mobile app.
 
 
 <!--
