@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+![Ethan's Banner](./1719958019269.gif)
+
+🔭 Currently working on my Bsc Computer Science, graduating later this year.
+💻 I enjoy building software, learning new technologies, and solving real-world problems.  
+🌱 I'm currently learning React Native & cloud based development/architecture.
+
+
 <!--
 **EthanLynam/EthanLynam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
