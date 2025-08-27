@@ -3,9 +3,6 @@
 ![Ethan's Banner](./1719958019269.gif)
 
 
-#### Currently learning React Native & cloud based development/architecture to build a mobile app.
-
-
 <!--
 **EthanLynam/EthanLynam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
