@@ -1,4 +1,4 @@
-# Hi there!
+
 
 ![Ethan's Banner](./1719958019269.gif)
 
