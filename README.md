@@ -1,6 +1,6 @@
 
 
-![Ethan's Banner](./1719958019269.gif)
+![Ethan's Banner](./gourmet_shit_pulp_fiction.gif)
 
 
 <!--
